@@ -1,0 +1,4 @@
+UPDATE UM_RQST
+WHERE    CLNCL_SOR_CD       = '870'
+AND    AIM_PROD_CD       <> 'MSK'
+;
